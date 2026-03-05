@@ -1,7 +1,3 @@
-path,type,description,purpose,stage
-README.md,file,Descripción principal del proyecto,Explicar qué es GeoIA y cómo participar,active
-LICENSE,file,Licencia del proyecto,Define el uso legal del código,active
-CONTRIBUTING.md,file,Guía para contribuir,Explicar flujo de pull requests y participación,active
 
 manifesto/,directory,Narrativa e identidad del proyecto,Define filosofía y propósito de GeoIA,active
 manifesto/geoia-manifesto.md,file,Manifiesto GeoIA,Explica visión de territorios digitales y soberanía,active
