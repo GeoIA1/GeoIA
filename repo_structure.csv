@@ -1,0 +1,39 @@
+path,type,description,purpose,stage
+README.md,file,Descripción principal del proyecto,Explicar qué es GeoIA y cómo participar,active
+LICENSE,file,Licencia del proyecto,Define el uso legal del código,active
+CONTRIBUTING.md,file,Guía para contribuir,Explicar flujo de pull requests y participación,active
+
+manifesto/,directory,Narrativa e identidad del proyecto,Define filosofía y propósito de GeoIA,active
+manifesto/geoia-manifesto.md,file,Manifiesto GeoIA,Explica visión de territorios digitales y soberanía,active
+
+docs/,directory,Documentación conceptual y técnica,Centralizar conocimiento del proyecto,active
+docs/vision.md,file,Visión del proyecto,Describe el futuro de GeoIA,active
+docs/architecture.md,file,Arquitectura del sistema,Explica componentes técnicos y flujo,active
+docs/geoia-method.md,file,Método GeoIA,Describe el enfoque geográfico y analítico,planned
+docs/glossary.md,file,Glosario de conceptos,Define términos geográficos y algorítmicos,active
+
+core/,directory,Núcleo del sistema GeoIA,Lógica principal del motor GeoIA,planned
+core/agents/,directory,Agentes inteligentes,Módulos de IA para análisis territorial,planned
+core/models/,directory,Modelos de datos,Estructuras de datos geográficos,planned
+core/engine/,directory,Motor de inferencia,Sistema de procesamiento GeoIA,planned
+
+map/,directory,Visualización geográfica,Interfaz para explorar territorios y nodos,planned
+map/viewer/,directory,Visor del mapa,Renderizado y navegación espacial,planned
+map/layers/,directory,Capas geográficas,Diferentes datasets y visualizaciones,planned
+
+data/,directory,Datos de ejemplo y territorios,Muestras para pruebas y demos,planned
+data/sample-territories/,directory,Datos territoriales iniciales,Simulación de nodos y territorios,planned
+
+experiments/,directory,Laboratorio de ideas,Pruebas y prototipos experimentales,active
+experiments/prototypes/,directory,Prototipos técnicos,Pruebas de nuevas funciones,active
+experiments/research-notes/,directory,Notas de investigación,Exploración conceptual de GeoIA,active
+
+community/,directory,Organización comunitaria,Estructura social del proyecto,active
+community/contributors.md,file,Lista de contribuyentes,Reconocer participación,active
+community/code_of_conduct.md,file,Código de conducta,Normas de convivencia del proyecto,active
+community/governance.md,file,Gobernanza del proyecto,Define cómo se toman decisiones,planned
+
+.github/,directory,Automatización GitHub,Configuraciones de colaboración,active
+.github/workflows/,directory,Automatizaciones CI/CD,Builds y verificaciones automáticas,planned
+.github/ISSUE_TEMPLATE/,directory,Plantillas de issues,Estandarizar reportes y propuestas,planned
+.github/PULL_REQUEST_TEMPLATE.md,file,Plantilla de PR,Guía para contribuciones,planned
